@@ -28,8 +28,6 @@ To run the script you need to:
 - Install dependencies by typing: `npm install`
 - Run the script by typing: `npm run buy` in terminal
 
-You should see the following output:  
-![output](readme/output.png)
 
 ## Snipe list
 By default, script buys each token which has a new liquidity pool created and open for trading. 
